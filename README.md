@@ -2,7 +2,7 @@
 ### Comparing Traditional Classification Models vs. Bio_ClinicalBERT on Patient Drug Reviews
 
 **Author:** Chadric Garrick  
-**Course:** MSBD-566 — Applied NLP  
+**Course:** MSBD-566
 **Date:** October 24, 2025  
 
 ---
